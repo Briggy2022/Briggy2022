@@ -59,6 +59,9 @@ Bridget Aghedo 🦄 Creative Web & AI App Developer | Building Human-Centered Di
 🦄 – Bridget Aghedo
 
 
+© 2025 Bridget Aghedo · Built with 💖 & AI
+
+
 📫 Connect with Me
 - 🌍 [Lovable.dev]
 https://lovable.dev/projects/50947034-c075-448f-a8d5-7f60e7a6e515
