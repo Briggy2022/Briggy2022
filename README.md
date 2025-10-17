@@ -1,6 +1,5 @@
-- 👋 Hi, I’m @Briggy2022
-- 👀 I’m interested in coding
-- 🌱 I’m currently learning software engineering
+
+Bridget Aghedo 🦄 Creative Web & AI App Developer | Building Human-Centered Digital Experiences
 - 💞️ I’m looking to collaborate on exciting projects
 - 📫 How to reach me @Briggy2022
 
