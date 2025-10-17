@@ -21,10 +21,48 @@ Bridget Aghedo 🦄 Creative Web & AI App Developer | Building Human-Centered Di
 - 🌱 Currently exploring advanced AI integration and automation systems.  
 - 🤝 Open to collaborations on web apps, edtech, and AI projects.  
 
+🛠️ Tech Stack
+🧩 Languages & Frameworks
+`HTML` • `CSS` • `JavaScript` • `React` • `Node.js`  
+`Python` (basic) • `JSON / APIs`
+
+ 🤖 AI Tools & Platforms
+`Vo.App` • `Lovable.dev` • `OpenAI API` • `MagicLightAI`
+
+🧰 Other Tools
+`GitHub` • `Figma` • `Canva` • `Notion` • `Trello`
+
+
+🪄 Developer Highlights
+
+- 💥 Created 5 working AI-powered web apps with live demos  
+- 🎯 Focused on UI clarity, responsive design, and automation  
+- 💬 Known for turning complex ideas into simple, beautiful web experiences
+
+
+📊 GitHub Insights
+
+![Bridget's GitHub stats](https://github-readme-stats.vercel.app/api?username=bridgetaghedo&show_icons=true&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=bridgetaghedo&layout=compact&theme=radical
+
+
+🧩 Quick Summary
+
+| 🌟 Role | 💬 What I Do |
+|----------|--------------|
+| Creative Web & AI App Developer | I design and build modern web experiences with automation and intelligence. |
+| EdTech & Productivity Innovator | I create learning and productivity tools powered by AI. |
+| Digital Builder | I turn creative concepts into real-world interactive applications. |
+
+
+💎 "Code with empathy. Design with intent. Build with purpose."
+🦄 – Bridget Aghedo
+
 
 📫 Connect with Me
 - 🌍 [Lovable.dev]
-(https://lovable.dev/projects/50947034-c075-448f-a8d5-7f60e7a6e515)
+https://lovable.dev/projects/50947034-c075-448f-a8d5-7f60e7a6e515
+
 
 <!---
 Briggy2022/Briggy2022 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
