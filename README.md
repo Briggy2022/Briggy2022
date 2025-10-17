@@ -23,7 +23,8 @@ Bridget Aghedo 🦄 Creative Web & AI App Developer | Building Human-Centered Di
 
 
 📫 Connect with Me
-- 🌍 [Lovable.dev](https://lovable.dev/projects/50947034-c075-448f-a8d5-7f60e7a6e515)
+- 🌍 [Lovable.dev]
+(https://lovable.dev/projects/50947034-c075-448f-a8d5-7f60e7a6e515)
 
 <!---
 Briggy2022/Briggy2022 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
