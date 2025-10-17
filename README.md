@@ -42,8 +42,8 @@ Bridget Aghedo 🦄 Creative Web & AI App Developer | Building Human-Centered Di
 
 📊 GitHub Insights
 
-![Bridget's GitHub stats](https://github-readme-stats.vercel.app/api?username=bridgetaghedo&show_icons=true&theme=radical)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=bridgetaghedo&layout=compact&theme=radical
+[Bridget's GitHub stats](https://github-readme-stats.vercel.app/api?username=briggy2022&show_icons=true&theme=radical)
+[Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=bridgetaghedo&layout=compact&theme=radical
 
 
 🧩 Quick Summary
